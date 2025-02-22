@@ -1,0 +1,41 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+import numpy as np
+
+iris=np.array([5.7, 2.6, 3.5, 1.0])
+
+print(iris)
+
+"""
+numpy da bir boytulu dizi için
+
+"""
+print("---------------------")
+print(np.array([1,2,3,4,5,6]))
+
+
+"""
+numpy da iki boytulu dizi için
+
+"""
+print("---------------------")
+print(np.array([[1,2,3,4,5,6],[2,3,4,5,6,10]]))
+
+"""
+numpyda 20x10 dizisi oluşturmak
+
+"""
+print("---------------------")
+print(np.zeros((20,10)))
+
+"""
+numpy da bir boytulu dizi için
+
+"""
+print("---------------------")
+print(np.array([1,2,3,4,5,6]))
